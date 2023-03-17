@@ -1,4 +1,4 @@
-# Find the pairs that adds to target
+# Love is in the sums
 
 This program finds the pairs from a list of integers that add up to a target.
 
