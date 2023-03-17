@@ -17,7 +17,7 @@ $ -4,1
 $ -3,0
 ```
 
-Or you can input the arguments from a file. Pass the name of the file as the first argument. Make sure that the first line of the file contains both first the list of integers separated by commas, and second the target separated by spaces.
+Or you can input the arguments from a file. Pass the name of the file as the first argument. Make sure that the first line of the file contains both the list of integers separated by commas, and then the target separated by spaces.
 Example:
 
 ```
